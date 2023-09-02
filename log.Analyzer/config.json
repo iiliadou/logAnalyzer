@@ -1,0 +1,8 @@
+{
+    "path_succesful_logs": "C:/Users/ILI18009/Desktop/Thesis/Logs/Successful-Builds",
+    "path_unstable_logs": "C:/Users/ILI18009/Desktop/Thesis/Logs/Unstable-Builds",
+    "path_failed_logs": "C:/Users/ILI18009/Desktop/Thesis/Logs/Failed-Builds",
+    "save_directory": "C:/Users/ILI18009/Desktop/Thesis/Logs/SavedModels/model.ptk",
+    "checkpoint_path": "C:/Users/ILI18009/Desktop/Thesis/Model2/checkpoint17.ptk"
+  }
+  
