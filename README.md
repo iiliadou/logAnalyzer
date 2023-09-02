@@ -1,1 +1,9 @@
-# logAnalyzer
+# Enhancing DevOps Insights: Fine-tuned BERT Text Classification for Jenkins Job Logs.
+
+## Abstract
+
+In the rapidly evolving landscape of modern software development processes, Jenkins has unquestionably risen to prominence as an indispensable automation server. Its multifaceted capabilities span far and wide, orchestrating intricate workflows with remarkable precision while championing the cause of continuous integration and delivery. Jenkins is not merely a tool but a linchpin, ensuring that software development pipelines function seamlessly.
+
+Within the heart of Jenkins' operations lies a treasure trove of information, meticulously recorded in the form of extensive log data. These logs serve as a window into the intricate workings of the system, revealing crucial insights into its behavior, the occurrence of errors, and the performance of various components. Yet, the sheer volume and complexity of these logs present a daunting challenge to human analysts. Manual analysis of these logs is an arduous and error-prone task that often consumes valuable time and resources. As a result, there arises an imperative need for the development of automated techniques capable of efficiently parsing and deciphering this wealth of log data.
+
+This thesis delves deep into the realm of transformer models, with a keen focus on the Bidirectional Encoder Representations from Transformers (BERT). By applying state-of-the-art natural language processing techniques to the realm of log analysis, this research endeavor seeks to transform the way we glean insights from Jenkins logs. Through the power of BERT, we aim to automate the classification of textual data within Jenkins logs, thereby unlocking the potential for more streamlined and intelligent system monitoring and troubleshooting. This innovative approach not only promises to enhance the efficiency of software development pipelines but also holds the potential to revolutionize the broader landscape of log analysis in the world of DevOps.
